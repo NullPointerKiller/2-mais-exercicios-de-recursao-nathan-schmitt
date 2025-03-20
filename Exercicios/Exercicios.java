@@ -9,7 +9,7 @@ public class Exercicios{
         }
     }
     
-    
+    //alo
     public static int somatorio(int n){
         //Modele e implemente um método recursivo que calcule o somatório de um número n (passado como parâmetro) até 0.
         if (n == 0) {
